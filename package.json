@@ -22,4 +22,15 @@
   "dependencies": {
     "express": "^5.2.1"
   }
+=======
+  "main": "script.js",
+  "scripts": {
+  "test": "echo \"Error: no test specified\" && exit 1",
+  "build": "echo \"Student Task Manager build successful\""
+},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+>>>>>>> 1765336 (Add build script)
 }
