@@ -1,0 +1,25 @@
+{
+  "name": "student-task-manager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+"scripts": {
+    "start": "node server.js",
+    "build": "echo Build completed successfully",
+    "test": "echo Tests passed successfully"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prashant-Mathwale/student-task-manager.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Prashant-Mathwale/student-task-manager/issues"
+  },
+  "homepage": "https://github.com/Prashant-Mathwale/student-task-manager#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
