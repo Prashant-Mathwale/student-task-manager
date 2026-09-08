@@ -2,12 +2,12 @@
   "name": "student-task-manager",
   "version": "1.0.0",
   "description": "",
-  "main": "script.js",
-"scripts": {
+  "main": "server.js",
+  "scripts": {
     "start": "node server.js",
     "build": "echo Build completed successfully",
     "test": "echo Tests passed successfully"
-},
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Prashant-Mathwale/student-task-manager.git"
@@ -22,15 +22,4 @@
   "dependencies": {
     "express": "^5.2.1"
   }
-=======
-  "main": "script.js",
-  "scripts": {
-  "test": "echo \"Error: no test specified\" && exit 1",
-  "build": "echo \"Student Task Manager build successful\""
-},
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": ""
->>>>>>> 1765336 (Add build script)
 }
