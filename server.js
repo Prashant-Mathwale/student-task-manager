@@ -1,3 +1,4 @@
+//Server
 const express = require("express");
 const path = require("path");
 
@@ -9,6 +10,6 @@ const PORT = 3000;
 app.use(express.static(__dirname));
 
 // Start server
-app.listen(PORT, () => {
+app.listen(PORT, '0.0.0.0', () => {
     console.log(`Student Task Manager running at http://localhost:${PORT}`);
 });
